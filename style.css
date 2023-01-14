@@ -110,6 +110,7 @@ nav li {
     /* border: 1px solid blue; */
     border-top: 1px solid silver;
     border-bottom: 1px solid silver;
+    margin-bottom: 100px;
 }
 /* hr{
     color: #3A3A3A;
